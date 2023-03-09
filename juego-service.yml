@@ -23,8 +23,6 @@ spring:
       enabled: true
       path: /h2-console
 
-mensagem: hello from juego-service
-
 management:
   endpoints:
     web:
